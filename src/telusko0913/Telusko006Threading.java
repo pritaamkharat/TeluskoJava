@@ -23,5 +23,7 @@ public class Telusko006Threading {
         System.out.println("Thread priority is : "+priority1);
 
         System.out.println("App is terminated");
+
+        System.out.println("push from pritam");
     }
 }
