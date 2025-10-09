@@ -1,6 +1,8 @@
 package telusko0809;
 
 class Dog{
+    //has
+
     String name;
     int cost;
     int age;

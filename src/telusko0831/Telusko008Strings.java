@@ -16,7 +16,7 @@ public class Telusko008Strings {
 //        System.out.println(str1.equals(str3));  //true
 
         String str5 = "Telusko";
-        String str6 = "telusko";
+        String str6 = "telusko0927";
         System.out.println(str5==str6);  //false
         System.out.println(str5.equals(str6));  //false
         System.out.println(str5.equalsIgnoreCase(str6));  //true
